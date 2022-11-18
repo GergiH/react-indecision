@@ -10,7 +10,7 @@
 		"dev-server": "webpack-dev-server"
 	},
 	"devDependencies": {
-		"webpack-cli": "^3.3.5"
+		"webpack-cli": "^3.3.12"
 	},
 	"dependencies": {
 		"@babel/core": "^7.5.4",
